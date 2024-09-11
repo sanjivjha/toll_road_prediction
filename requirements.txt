@@ -1,0 +1,45 @@
+# requirements.txt
+
+# Core libraries
+numpy
+pandas
+
+# Deep learning and machine learning
+torch
+torchvision
+transformers
+
+# Graph processing
+networkx
+osmnx
+
+# Geospatial processing
+geopandas
+shapely
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter notebooks
+jupyter
+notebook
+
+# AWS and SageMaker
+boto3
+sagemaker
+
+# Testing
+pytest
+
+# Utilities
+tqdm
+python-dotenv
+
+# API (if needed for future development)
+flask
+gunicorn
+
+# Code quality
+flake8
+black
